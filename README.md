@@ -2,7 +2,9 @@
 
 `risk-aware-build` is a Codex skill for turning uncertain software work into a staged, evidence-backed implementation workflow. It helps agents discover unknowns, surface human-sensitive decisions, plan safely, track implementation deviations, verify with evidence, and prepare review handoffs.
 
-The project was inspired by Thariq's X post, "A Field Guide to Fable: Finding Your Unknowns," which argues that stronger agentic coding models make unknown discovery more important, not less. The skill packages that idea as an operating-system-style workflow: one router, one artifact contract, and reusable `ai/*.md` templates rather than eleven disconnected skills.
+Project description: A Codex skill that turns unknowns, implementation risk, and review readiness into durable AI development artifacts.
+
+The project was inspired by Thariq's X post, ["A Field Guide to Fable: Finding Your Unknowns"](https://x.com/trq212/article/2073100352921215386), which argues that stronger agentic coding models make unknown discovery more important, not less. The skill packages that idea as an operating-system-style workflow: one router, one artifact contract, and reusable `ai/*.md` templates rather than eleven disconnected skills.
 
 ## Contents
 
