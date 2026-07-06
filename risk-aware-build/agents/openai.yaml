@@ -1,0 +1,4 @@
+interface:
+  display_name: "Risk-Aware Build"
+  short_description: "Turn uncertainty into safer implementation"
+  default_prompt: "Use $risk-aware-build to surface implementation risks, plan the work, verify evidence, and prepare a handoff."
